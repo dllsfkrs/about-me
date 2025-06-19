@@ -13,24 +13,25 @@ In the future, I want to become a good programmer
      
 # What do I know / Что я знаю      
 🐍Python libraries / Python библиотеки:     
-```stealth_requests ```
-```beautifulsoup4 ```
-```fake-useragent```
-```time```
-```requests```
-```foluim```
-```cryptography```
-```torpy```
-```tkinter```
-```Pyside6/PyQt6```
-```os```
-```sys```
-```telebot```
-```aiogram```
-```colorama```
-```wikipedia```
-```ipwhois```
-✔Other / Другое:   
+```stealth_requests ```   
+```beautifulsoup4 ```   
+```fake-useragent```   
+```time```   
+```requests```    
+```foluim```   
+```cryptography```    
+```torpy```    
+```tkinter```   
+```Pyside6/PyQt6```    
+```os```    
+```sys```    
+```telebot```    
+```aiogram```    
+```colorama```    
+```wikipedia```    
+```ipwhois```    
+
+✔Other / Другое:       
 I have a basic knowledge of decentralized networks / Имею базовые познания об децентрализованных сетях и работе с ними(в частности Tor)    
 Have knowledge of user-agent headers / Имею знания об заголовках(user-agent)   
 I know about the types of proxies and their differences / Знаю об видах прокси и их отличиях     
