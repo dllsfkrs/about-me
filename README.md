@@ -21,8 +21,7 @@ In the future, I want to become a good programmer
 ```foluim```   
 ```cryptography```    
 ```torpy```    
-```tkinter```   
-```Pyside6/PyQt6```    
+```tkinter```      
 ```os```    
 ```sys```    
 ```telebot```    
